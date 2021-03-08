@@ -1,5 +1,5 @@
 # To-Do-App
-This is a Web-Based To-do Application in which you can create a to-do for yourself by adding your daily tasks and you can delete them when you want to. The user can keep track of their daily schedule with the help of this application. 
+This is a Web-Based To-do Application developed using **Python, django, bootstrap, HTML and CSS** in which you can create a to-do list for yourself by adding your daily tasks and you can delete them when you want to. The user can keep track of their daily schedule with the help of this application. 
 
 Here is a screenshot depicting the interface of the appplication
 
